@@ -1,73 +1,79 @@
-<h1 align="center">👋 Hey there, I'm Prathamesh Barbole</h1>
-<h3 align="center">🚀 IT Engineering Student | 💻 Developer | 🎮 Minecraft Specialist | 🤖 Tech Explorer</h3>
+<!-- README.md for Prathamesh Barbole -->
+
+<h1 align="center">🚀 Prathamesh Barbole</h1>
+<h3 align="center">IT Engineer | Software & Web Developer | Minecraft Expert | Discord Bot Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Minecraft+Server+Developer;Discord+Bot+Creator;Web+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+HeroOS+and+Heropixel+Network;Minecraft+Server+Dev+%7C+Discord+Bot+Expert;Web+%26+Software+Engineer+in+Training;Always+Creating+Something+New" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Information Technology**
-- 🛠️ Founder of [HeroPixel Network](http://www.heroos.tech)
-- 🎮 Minecraft Server & Network Developer
+- 🎓 B.Tech IT Student at DY Patil COE, Pune
+- 💻 Founder of **[HeroPixel Network](http://www.heroos.tech)**
+- 🧱 Minecraft Server & Plugin Developer
 - 🤖 Discord Bot & Automation Enthusiast
-- 🌐 Passionate Web Developer & Domain Manager
-- 🧠 Always learning and building something cool!
+- 🌐 Web Development & Domain Management
+- 🔥 Always building, learning, improving...
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
 
-<p>
-  <a href="mailto:heropixelnetwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://discord.com/users/794211471516893204"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="http://www.heroos.tech"><img src="https://img.shields.io/badge/My Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,nodejs,react,firebase,github,vscode,linux" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=2208Prathamesh&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2208Prathamesh&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2208Prathamesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2208Prathamesh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2208Prathamesh&theme=algolia&row=1&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2208Prathamesh&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🎮 Discord Presence
+## 🎮 Discord Live Status
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/794211471516893204?theme=dark&borderRadius=10px" height="150"/>
+  <a href="https://discord.com/users/794211471516893204" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="90"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Contact Me
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/794211471516893204?theme=dark&borderRadius=10px" />
+  <a href="mailto:heropixelnetwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-heropixelnetwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.heroos.tech"><img src="https://img.shields.io/badge/My%20Website-HeroOS.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👀 Visitor Count
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2208Prathamesh&theme=tokyonight&margin-w=10&row=1" />
+</p>
+
+---
+
+## 👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2208Prathamesh&style=flat-square&color=blue" />
@@ -75,4 +81,4 @@
 
 ---
 
-<h3 align="center">💬 "Built with ❤️ by Prathamesh Barbole — Keep Creating."</h3>
+<p align="center"><strong>🔥 Built with passion by Prathamesh Barbole</strong></p>
