@@ -74,4 +74,4 @@
 
 ---
 
-<p align="center"><strong>🚧 Built with passion by Prathamesh Barbole — 2025 💙</strong></p>
+<p align="center"><strong>🚧 Built with passion by Prathamesh Barbole — 2025 ❤️</strong></p>
