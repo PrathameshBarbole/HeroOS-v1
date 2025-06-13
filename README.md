@@ -1,7 +1,6 @@
 <!-- README.md for Prathamesh Barbole -->
-
-<h1 align="center">🚀 Prathamesh Barbole</h1>
-<h3 align="center">IT Engineer | Developer of HeroOS | Founder of Heropixel Network</h3>
+<h1 align="center">👋 Hey there, I'm Prathamesh Barbole</h1>
+<h3 align="center">🚀 IT Engineering Student | 💻 Developer | 🎮 Minecraft Specialist | 🤖 Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=🎓+Pursuing+B.Tech+in+Information+Technology;💻+Developer+of+HeroOS;🚀+Founder+of+Heropixel+Network;🌐+Domain+Manager+%26+Web+Dev;🎮+Minecraft+Server+Developer;🤖+Discord+Bot+Developer;🧠+Aspiring+Software+Engineer;✨+Always+Creating+Something+New" alt="Typing animation" />
