@@ -9,14 +9,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Hey, I'm Prathamesh Barbole
 
-- 🎓 B.Tech IT Student at DY Patil COE, Pune  
-- 💻 Founder of **[HeroPixel Network](http://www.heroos.tech)**  
-- 🧱 Minecraft Server & Plugin Developer  
-- 🤖 Discord Bot & Automation Enthusiast  
-- 🌐 Web Development & Domain Management  
-- 🔥 Always building, learning, improving...
+🎓 I’m an IT Engineering Student  
+🧱 I’m also a Software Developer, Gamer, and Minecraft Modder  
+🌐 Skilled in Web Development & Domain Management  
+🎮 Expert in Minecraft Server/Network Development  
+🤖 Discord Server and Bot Developer  
+🧠 Learning new technologies every day  
 
 ---
 
@@ -45,11 +45,12 @@
 
 ---
 
-## 🎮 Discord Live Status
+## 🛰️ Discord Status & Visitors
 
-<p align="center">
+<div align="center">
   <img src="https://lanyard.cnrad.dev/api/794211471516893204?theme=dark&borderRadius=10px" height="150"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=2208Prathamesh&style=flat-square&color=blue" height="30" style="margin-left: 20px;" />
+</div>
 
 ---
 
@@ -69,14 +70,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=2208Prathamesh&theme=tokyonight&margin-w=10&row=1" />
-</p>
-
----
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2208Prathamesh&style=flat-square&color=blue" />
 </p>
 
 ---
