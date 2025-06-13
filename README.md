@@ -3,7 +3,7 @@
 <h3 align="center">🚀 IT Engineering Student | 💻 Developer | 🎮 Minecraft Specialist | 🤖 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=🎓+Pursuing+B.Tech+in+Information+Technology;💻+Developer+of+HeroOS;🚀+Founder+of+Heropixel+Network;🌐+Domain+Manager+%26+Web+Dev;🎮+Minecraft+Server+Developer;🤖+Discord+Bot+Developer;🧠+Aspiring+Software+Engineer;✨+Always+Creating+Something+New" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%F0%9F%8E%93+Pursuing+B.Tech+in+Information+Technology;%F0%9F%92%BB+Developer+of+HeroOS;%F0%9F%9A%80+Founder+of+Heropixel+Network;%F0%9F%8C%90+Domain+Manager+%26+Web+Dev;%F0%9F%8E%AE+Minecraft+Server+Developer;%F0%9F%A4%96+Discord+Bot+Developer;%F0%9F%A7%A0+Aspiring+Software+Engineer;%E2%9C%A8+Always+Creating+Something+Neww" alt="Typing animation" />
 </p>
 
 ---
