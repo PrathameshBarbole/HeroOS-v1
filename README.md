@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech IT Student at DY Patil COE, Pune
-- 💻 Founder of **[HeroPixel Network](http://www.heroos.tech)**
-- 🧱 Minecraft Server & Plugin Developer
-- 🤖 Discord Bot & Automation Enthusiast
-- 🌐 Web Development & Domain Management
+- 🎓 B.Tech IT Student at DY Patil COE, Pune  
+- 💻 Founder of **[HeroPixel Network](http://www.heroos.tech)**  
+- 🧱 Minecraft Server & Plugin Developer  
+- 🤖 Discord Bot & Automation Enthusiast  
+- 🌐 Web Development & Domain Management  
 - 🔥 Always building, learning, improving...
 
 ---
@@ -47,12 +47,9 @@
 
 ## 🎮 Discord Live Status
 
-<div align="center">
+<p align="center">
   <img src="https://lanyard.cnrad.dev/api/794211471516893204?theme=dark&borderRadius=10px" height="150"/>
-  <a href="https://discord.com/users/794211471516893204" target="_blank">
-    <img src="https://img.shields.io/badge/Message%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="90"/>
-  </a>
-</div>
+</p>
 
 ---
 
@@ -61,6 +58,9 @@
 <p align="center">
   <a href="mailto:heropixelnetwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-heropixelnetwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.heroos.tech"><img src="https://img.shields.io/badge/My%20Website-HeroOS.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://discord.com/users/794211471516893204" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Prathamesh%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
