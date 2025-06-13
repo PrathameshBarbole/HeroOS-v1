@@ -1,7 +1,7 @@
 <!-- README.md for Prathamesh Barbole -->
 
 <h1 align="center">🚀 Prathamesh Barbole</h1>
-<h3 align="center">IT Engineer | Software & Web Developer | Minecraft Expert | Discord Bot Dev</h3>
+<h3 align="center">IT Engineer | Developer of HeroOS | Founder of Heropixel Network</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=🎓+Pursuing+B.Tech+in+Information+Technology;💻+Developer+of+HeroOS;🚀+Founder+of+Heropixel+Network;🌐+Domain+Manager+%26+Web+Dev;🎮+Minecraft+Server+Developer;🤖+Discord+Bot+Developer;🧠+Aspiring+Software+Engineer;✨+Always+Creating+Something+New" alt="Typing animation" />
@@ -9,14 +9,15 @@
 
 ---
 
-## 👋 Hey, I'm Prathamesh Barbole
+## 👨‍💻 About Me
 
-🎓 I’m an IT Engineering Student  
-🧱 I’m also a Software Developer, Gamer, and Minecraft Modder  
-🌐 Skilled in Web Development & Domain Management  
-🎮 Expert in Minecraft Server/Network Development  
-🤖 Discord Server and Bot Developer  
-🧠 Learning new technologies every day  
+- 🎓 B.Tech Student in Information Technology  
+- 💻 Building **HeroOS** (AI-based OS UI)  
+- 🚀 Founder of **Heropixel Network**  
+- 🌐 Managing domains and web systems  
+- 🎮 Minecraft Server & Network Developer  
+- 🤖 Discord Bot & Server Automation Expert  
+- 🧠 Learning and creating every day  
 
 ---
 
@@ -74,4 +75,4 @@
 
 ---
 
-<p align="center"><strong>🔥 Built with passion by Prathamesh Barbole</strong></p>
+<p align="center"><strong>🚧 Built with passion by Prathamesh Barbole — 2025 💙</strong></p>
